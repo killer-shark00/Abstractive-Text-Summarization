@@ -1,7 +1,8 @@
 # Abstractive-Text-Summarization
 
 # Based on Research paper :- 
-
+Presentation Link: - 
+https://docs.google.com/presentation/d/1dqd0P8StBku8K0bikmLtYMoZGmqBekAJ2luNtwXyRdQ/edit?usp=sharing
 
 ##Abstractive Text Summarization: Enhancing Sequence-to-Sequence Models Using Word Sense Disambiguation and Semantic Content Generalization
 
