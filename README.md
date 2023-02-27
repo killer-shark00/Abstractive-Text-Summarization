@@ -1,8 +1,9 @@
 # Abstractive-Text-Summarization
 
-#Literature Review
+# Based on Research paper :- 
 
-#Abstractive Text Summarization: Enhancing Sequence-to-Sequence Models Using Word Sense Disambiguation and Semantic Content Generalization
+
+##Abstractive Text Summarization: Enhancing Sequence-to-Sequence Models Using Word Sense Disambiguation and Semantic Content Generalization
 
 Panagiotis Kouris 
 School of Electrical and Computer Engineering, 
